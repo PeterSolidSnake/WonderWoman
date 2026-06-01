@@ -1,10 +1,5 @@
 package modelo;
 
-// ============================================================
-//  MODELO - WonderWoman.java
-//  Personaje principal controlado por el jugador
-// ============================================================
-
 public class WonderWoman extends Personaje
 {
     // Constante pública para que el controlador sepa el máximo real
