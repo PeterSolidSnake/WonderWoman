@@ -1,9 +1,6 @@
 package modelo;
 
-// ============================================================
-//  MODELO - Personaje.java
-//  Clase abstracta base para todos los personajes del juego
-// ============================================================
+
 
 public abstract class Personaje
 {
