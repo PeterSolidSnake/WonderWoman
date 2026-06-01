@@ -1,9 +1,5 @@
 package modelo;
 
-// ============================================================
-//  MODELO - Escenario.java
-//  Representa los lugares donde se desarrolla el juego
-// ============================================================
 
 public class Escenario
 {
