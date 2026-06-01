@@ -1,9 +1,6 @@
 package modelo;
 
-// ============================================================
-//  MODELO - Aliado.java
-//  Personajes aliados con los que Diana puede interactuar
-// ============================================================
+
 
 public class Aliado extends Personaje
 {
