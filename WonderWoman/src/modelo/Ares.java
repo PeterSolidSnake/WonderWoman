@@ -1,9 +1,5 @@
 package modelo;
 
-// ============================================================
-//  MODELO - Ares.java
-//  Jefe final del juego, extiende Enemigo
-// ============================================================
 
 public class Ares extends Enemigo
 {
